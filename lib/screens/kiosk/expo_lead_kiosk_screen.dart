@@ -40,7 +40,6 @@ class _ExpoLeadKioskScreenState extends State<ExpoLeadKioskScreen> {
     'Partnership',
     'Event Follow-up',
     'Other',
-    'Other',
   ];
 
   String _selectedInterest = _interests.first;

@@ -13,7 +13,7 @@ An open-source Flutter CRM client for compatible SuiteCRM installations. This re
 Features and behavior depend on server-side permissions and the installed API. **Not all platforms and features have been independently tested in this public package.**
 
 ## Requirements
-
+- you will need https://github.com/QuickCRM/QuickCRM-Basic/releases as well in your suitCRM install  
 - **Flutter SDK** compatible with **Dart 3.9 or later** (see `pubspec.yaml` and `pubspec.lock`)
 - Git and a supported IDE (VS Code with Flutter/Dart extensions, or Android Studio)
 - For Android: Android Studio, Android SDK, Java/JDK as required by your installed Flutter/Gradle versions, and a device or emulator
